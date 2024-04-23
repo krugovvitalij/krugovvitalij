@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @krugovvitalij
-- 👀 I’m interested in web3.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi there 👋
 
-<!---
-krugovvitalij/krugovvitalij is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate **Web3 Developer** with a knack for **testing** and **deploying smart contracts**. With a background in computer science and a keen interest in the blockchain space, I've dedicated my career to building and testing decentralized applications (dApps).
+
+#### What I Do 🚀
+- **Smart Contract Development**: Crafting secure and efficient smart contracts using Solidity.
+- **DApp Testing**: Rigorous testing of dApps to ensure functionality and security on various blockchains.
+- **Blockchain Analysis**: Analyzing blockchain data to improve system performance and user experience.
+- **Continuous Learning**: Keeping up-to-date with the latest in Ethereum, Polkadot, and other blockchain technologies.
+
+#### My Values 💡
+- **Quality**: Ensuring the highest standard of code and user experience.
+- **Security**: Prioritizing the safety and privacy of users and their data.
+- **Innovation**: Continuously exploring new ideas to advance the Web3 ecosystem.
+
+
+#### Let's Connect 🌐
+- **E-mail**:krugovvitalij@gmail.com
+- 
+Feel free to reach out if you're interested in collaborating or if you have any questions about Web3 development!
